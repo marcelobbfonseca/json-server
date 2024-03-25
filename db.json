@@ -7,5 +7,29 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",,
+      "email":"johnjohn@castleblack.com",
+      "password": "secret",
+      "group_id": 1,   
+      "phone": "999948888",
+      "technical_team" :"SaaS",
+      "business_team": "Lord Comander",
+      "committee":  "Foo bar",   
+      "is_active": "true"
+    }
+  ],
+  "sign-in": {
+    "id": "1",
+    "email":"johnjohn@castleblack.com",
+    "password": "secret",
+    "group_id": 1,   
+    "phone": "999948888",
+    "technical_team" :"SaaS",
+    "business_team": "Lord Comander",
+    "committee":  "Foo bar",   
+    "is_active": "true"
   }
 }
