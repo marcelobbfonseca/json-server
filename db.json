@@ -10,7 +10,7 @@
   },
   "users": [
     {
-      "id": "1",,
+      "id": "1",
       "email":"johnjohn@castleblack.com",
       "password": "secret",
       "group_id": 1,   
